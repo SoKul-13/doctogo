@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/doctogofinalapp/app/src/main/res/layout/activity_dashboard.xml" value="0.33" />
+        <entry key="..\:/doctogofinalapp/app/src/main/res/layout/activity_helper_dashboard.xml" value="0.20108695652173914" />
+        <entry key="..\:/doctogofinalapp/app/src/main/res/layout/activity_helper_finder.xml" value="0.1838768115942029" />
+        <entry key="..\:/doctogofinalapp/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/doctogofinalapp/app/src/main/res/layout/activity_notificaiton_home.xml" value="0.33" />
+        <entry key="..\:/doctogofinalapp/app/src/main/res/layout/activity_notification_dashboard.xml" value="0.17572463768115942" />
+        <entry key="..\:/doctogofinalapp/app/src/main/res/layout/activity_notification_details.xml" value="0.33" />
+        <entry key="..\:/doctogofinalapp/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="..\:/doctogofinalapp/app/src/main/res/layout/activity_user_dashboard.xml" value="0.16032608695652173" />
+        <entry key="..\:/doctogofinalapp/app/src/main/res/layout/content_login.xml" value="0.11524822695035461" />
+        <entry key="..\:/doctogofinalapp/app/src/main/res/layout/fragment_my_notification.xml" value="0.29257246376811596" />
+        <entry key="..\:/doctogofinalapp/app/src/main/res/layout/fragment_notification_dashboard.xml" value="0.17572463768115942" />
+        <entry key="..\:/doctogofinalapp/app/src/main/res/layout/fragment_notification_dashboard2.xml" value="0.17395833333333333" />
+        <entry key="..\:/doctogofinalapp/app/src/main/res/layout/fragment_user_notification.xml" value="0.29257246376811596" />
+        <entry key="..\:/doctogofinalapp/app/src/main/res/layout/notification_item_layout.xml" value="0.33" />
+        <entry key="..\:/doctogofinalapp/app/src/main/res/menu/logout_menu.xml" value="0.3182291666666667" />
+        <entry key="..\:/doctogofinalapp/app/src/main/res/menu/main_menu.xml" value="0.33" />
+        <entry key="..\:/doctogofinalapp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.199" />
+        <entry key="..\:/doctogofinalapp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.199" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

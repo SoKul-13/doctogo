@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:id="@+id/dContainer"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+app:layoutDescription="@xml/activity_login_scene"
+tools:context=".DashboardActivity"
+android:paddingLeft="@dimen/activity_horizontal_margin"
+android:paddingTop="@dimen/activity_vertical_margin"
+android:paddingRight="@dimen/activity_horizontal_margin"
+android:paddingBottom="@dimen/activity_vertical_margin">
+
+    <RadioGroup
+        android:id="@+id/dRradiogroup"
+        android:layout_width="343dp"
+        android:layout_height="458dp"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="118dp"></RadioGroup>
+
+    <Button
+        android:id="@+id/btnLoadData"
+        android:layout_width="200dp"
+        android:layout_height="49dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="92dp"
+        android:text="Load Notifications"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/dRradiogroup" />
+
+    <Button
+        android:id="@+id/btnFindHelpers"
+        android:layout_width="159dp"
+        android:layout_height="51dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="116dp"
+        android:text="Find Helpers"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnLoadData" />
+</androidx.constraintlayout.widget.ConstraintLayout>
