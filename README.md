@@ -1,2 +1,2 @@
 # doctogo
-9th grade science project
+california state science fair top 3 project, synopsys regional fair grand prize finalist
